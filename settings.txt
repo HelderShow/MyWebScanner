@@ -1,0 +1,18 @@
+{"site_url":"http://localhost:8000",
+"site_title": "WebScanner",
+"description": "WebScanner - сканер уязвимостей веб приложений",
+"keywords": "разработан на Python",
+"name": "WebScanner",
+"tag1":"Разработчик и автор: магистрант Факультета радиофизики", 
+"tag2": "и компьютерных технологий  Белорусского государственного университета", 
+"tag3": "группы 41 ''Кибербезопасность'' Кулеш В.Л.",
+"tag4": "Разработчик и автор: Кулеш В.Л.",
+"sect1":"Главная",
+"sect2":"Резюме",
+"sect3":"Сканер уязвимостей",
+"sect4":"Контакты",
+"telegram":"https://t.me/AlAkkerman",
+"vk":"https://vk.com/AlexAkkerman",
+"email":"mailto:AlexAkkerman@gmail.com",
+"city":"Минск"
+}
